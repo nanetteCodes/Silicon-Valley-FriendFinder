@@ -1,6 +1,3 @@
-*{
-  margin:20px;
-}
 
 body{
   background: url("https://www.indivisible.us/wp-content/uploads/2016/03/Silicon-Valley-real-estate-The-Registry.jpg");
@@ -8,9 +5,23 @@ body{
 }
 
 .titleHead{
-  opacity: .8;
+  opacity: .85;
 }
 
-.titleHead{
-  opacity: 1;
+.titleHead1{
+  opacity: .95;
+  margin-top: 10px;
+  margin-right:5%;
+  margin-bottom: 10px;
+  margin-left: 5%;
+}
+
+
+
+#name {
+  width: 40%;
+}
+
+#photo {
+  width: 40%;
 }
